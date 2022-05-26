@@ -23,7 +23,14 @@ class Bassist():
 
 
 class Drummer():
-    pass
+    def __init__(self, name):
+        self.name = name
+
+    def __str__(self):
+        return f'My name is {self.name} and I play drums'
+
+    def __repr__(self):
+        return f'Drummer instance. Name = {self.name}'
 
 
 if __name__ == '__main__':
