@@ -3,7 +3,7 @@
 ## Project: Pythonic Garage Band
 
 ## Links and Resources
-
+Worked with Brian Tarte and Joey Marianer
 
 ## Setup
 N/A
